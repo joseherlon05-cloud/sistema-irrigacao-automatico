@@ -46,9 +46,6 @@ As imagens abaixo são capturas da documentação do projeto enviadas pelo autor
 
 ![Ligações básicas](imagens/ligacoes-basicas.png)
 
-## 💻 Código-fonte
-
-O código Arduino (`.ino`) ainda não foi incluído. Adicione o arquivo real em `codigo/` após revisar os pinos e as bibliotecas utilizadas. Não substitua pelo código de exemplo de outro projeto.
 
 ## ▶️ Como reproduzir
 
