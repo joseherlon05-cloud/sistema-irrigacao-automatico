@@ -2,7 +2,6 @@
 
 Projeto de automação com Arduino voltado à irrigação de plantas com base na leitura da umidade do solo.
 
-> **Status da documentação:** este repositório inicial foi preparado a partir das informações e imagens de documentação enviadas pelo autor. O código-fonte ainda precisa ser adicionado e as ligações devem ser conferidas com a montagem física antes de considerar este guia como definitivo.
 
 ## 🎥 Demonstração
 
@@ -30,9 +29,6 @@ Projeto de automação com Arduino voltado à irrigação de plantas com base na
 
 **Atenção:** confirme as conexões na sua montagem e no código antes de ligar a alimentação. Não alimente a bomba diretamente por um pino do Arduino; use alimentação apropriada e o módulo de acionamento adequado.
 
-## 🖼️ Documentação visual
-
-As imagens abaixo são capturas da documentação do projeto enviadas pelo autor, não fotografias da montagem física.
 
 ### Componentes de hardware
 
